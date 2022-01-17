@@ -11,6 +11,6 @@ I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a grad
 
 **languages and tools:** 
 
-<code><img height="20" src="./components/images/HTML-logo.png"></code>
-<code><img height="20" src="./components/images/CSS-logo.png"></code>
-<code><img height="20" src="./components/images/JS-logo.png"></code>
+<code><img height="20" src="https://github.com/GobindSetia/GobindSetia/raw/main/components/Images/HTML-logo.png"></code>
+<code><img height="20" src="https://github.com/GobindSetia/GobindSetia/raw/main/components/Images/CSS-logo.png"></code>
+<code><img height="20" src="https://github.com/GobindSetia/GobindSetia/raw/main/components/Images/JS-logo.png"></code>

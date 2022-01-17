@@ -6,6 +6,8 @@
   <img align="left" alt="Gobind's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
+<br/>
+<br/>
 Hello there, <br/>
 I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida and an aspiring Full Stack Web Developer at Masai School.
 

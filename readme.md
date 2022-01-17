@@ -7,4 +7,4 @@
 </a>
 <br>
 Hello there, 
-I am [Gobind Setia](https://www.linkedin.com/in/gobindsetia/), a graduate in B.Tech.(CSE) from Amity University Noida and an aspiring Full Stack Web Developer at Masai School.
+I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida and an aspiring Full Stack Web Developer at Masai School.

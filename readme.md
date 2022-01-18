@@ -11,7 +11,9 @@
 Hello there, <br/>
 I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida and an aspiring Full Stack Web Developer at Masai School.
 
-**languages and tools:** 
+<br/>
+<br/>
+**Technologies:** 
 
 <code><img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>

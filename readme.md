@@ -1,23 +1,44 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![MasterHead](https://drive.google.com/uc?id=1dDwQHaAu543X2ykqVuBprLmBrMcBVafZ&export=download)](https://khushboogoel01.github.io)
+Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br/>
+I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida.
+I have worked as an SEO executive for an year. Now I am an aspiring Full Stack Web Developer at Masai School.
+<hr/>
 
+<h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/gobindsetia/">
-  <img align="left" alt="Gobind's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Gobind's LinkedIN" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+</a>
+<a href="https://stackoverflow.com/users/17761359/gobind-setia">
+  <img align="left" alt="Gobind's Discord" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+</a>
+
+<a href="https://medium.com/@gobindsetia">
+  <img align="left" alt="Gobind's Medium" src="https://img.icons8.com/stickers/48/000000/medium-logo.png"/>
+</a>
+<a href="https://discord.com/channels/@GobindSetia#1954">
+  <img align="left" alt="Gobind's Discord" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 </a>
 <br/>
+<hr/>
+<h3>Technologies</h3>
+<div>
+<img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" src="https://img.icons8.com/external-others-amoghdesign/48/000000/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</div>
 <br/>
-<br/>
-Hello there, <br/>
-I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida and an aspiring Full Stack Web Developer at Masai School.
+<hr/>
+<h3>Statistics</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobindsetia&show_icons=true&locale=en&layout=compact" alt="gobindsetia" /></p>
 
-<br/>
-<br/>
-**Technologies:** 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobindsetia&show_icons=true&locale=en" alt="gobindsetia" /></p>
 
-<code><img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
-<code><img src="https://img.icons8.com/external-others-amoghdesign/48/000000/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/npm.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobindsetia&" alt="gobindsetia" /></p>

@@ -2,7 +2,7 @@
 Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida.
-I have worked as an SEO executive for an year. Now I am an aspiring Full Stack Web Developer at Masai School.
+I have worked as an SEO executive for an year. Now I am a student of Full Stack Web Developer at Masai School.
 <hr/>
 
 <h3>Connect with me:</h3>

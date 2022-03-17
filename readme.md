@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?id=1dDwQHaAu543X2ykqVuBprLmBrMcBVafZ&export=download)](https://khushboogoel01.github.io)
+[![MasterHead](https://drive.google.com/uc?id=1dDwQHaAu543X2ykqVuBprLmBrMcBVafZ&export=download)](#)
 Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida.

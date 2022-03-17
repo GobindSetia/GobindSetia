@@ -21,6 +21,7 @@ I have worked as an SEO executive for an year. Now I am an aspiring Full Stack W
 </a>
 <br/>
 <hr/>
+<br/>
 <h3>Technologies</h3>
 <div>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -36,7 +37,9 @@ I have worked as an SEO executive for an year. Now I am an aspiring Full Stack W
 </div>
 <br/>
 <hr/>
+<br/>
 <h3>Statistics</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat" alt="gobindsetia" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobindsetia&show_icons=true&locale=en&layout=compact" alt="gobindsetia" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobindsetia&show_icons=true&locale=en" alt="gobindsetia" /></p>

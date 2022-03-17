@@ -1,6 +1,8 @@
+
 [![MasterHead](https://drive.google.com/uc?id=1dDwQHaAu543X2ykqVuBprLmBrMcBVafZ&export=download)](#)
 Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
+
 I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida.
 I have worked as an SEO executive for an year. Now I am a student of Full Stack Web Developer at Masai School.
 <hr/>
@@ -41,8 +43,8 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
 <br/>
 <h3>Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat" alt="gobindsetia" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobindsetia&show_icons=true&locale=en&layout=compact&theme=radical" alt="gobindsetia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobindsetia&show_icons=true&locale=en&layout=compact&title_color=ffffff&border_color=ff0000&bg_color=000000&icon_color=ff0000&text_color=ffffff" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobindsetia&show_icons=true&locale=en&theme=radical" alt="gobindsetia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobindsetia&show_icons=true&locale=en&title_color=ffffff&border_color=ff0000&bg_color=000000&icon_color=FA8B00&text_color=ffffff" alt="gobindsetia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobindsetia&theme=radical" alt="gobindsetia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gobindsetia&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="gobindsetia" /></p>

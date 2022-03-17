@@ -7,6 +7,7 @@ I have worked as an SEO executive for an year. Now I am an aspiring Full Stack W
 
 <h3>Connect with me:</h3>
 <a href="https://twitter.com/gobindsetia" target="blank"><img src="https://img.shields.io/twitter/follow/gobindsetia?logo=twitter&style=for-the-badge" alt="gobindsetia" /></a>
+<br/>
 <a href="https://www.linkedin.com/in/gobindsetia/">
   <img align="left" alt="Gobind's LinkedIN" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
@@ -21,7 +22,6 @@ I have worked as an SEO executive for an year. Now I am an aspiring Full Stack W
   <img align="left" alt="Gobind's Discord" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 </a>
 <br/>
-<hr/>
 <br/>
 <h3>Technologies</h3>
 <div>
@@ -36,8 +36,8 @@ I have worked as an SEO executive for an year. Now I am an aspiring Full Stack W
 <img align="left" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
+
 <br/>
-<hr/>
 <br/>
 <h3>Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat" alt="gobindsetia" /> </p>

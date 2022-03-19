@@ -41,7 +41,7 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
 <br/>
 <br/>
 <h3>Statistics</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat" alt="gobindsetia" /> </p>
+<img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat"/> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobindsetia&show_icons=true&locale=en&layout=compact&title_color=ffffff&border_color=ff0000&bg_color=000000&icon_color=ff0000&text_color=ffffff" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobindsetia&show_icons=true&locale=en&title_color=ffffff&border_color=ff0000&bg_color=000000&icon_color=FA8B00&text_color=ffffff" alt="gobindsetia" /></p>

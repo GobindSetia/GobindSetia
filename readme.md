@@ -25,7 +25,7 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
 <br/>
 <br/>
 <h3>Technologies</h3>
-<div>
+
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -36,15 +36,15 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-</div>
+
 
 <br/>
-<br/>
-
-<h2>Statistics</h2>
+<div align="left">
+<h2 align="left" width="100%">Statistics</h2>
 <img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat"/> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobindsetia&show_icons=true&locale=en&layout=compact&title_color=ffffff&border_color=ff0000&bg_color=000000&icon_color=ff0000&text_color=ffffff" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gobindsetia&show_icons=true&locale=en&title_color=ffffff&border_color=ff0000&bg_color=000000&icon_color=FA8B00&text_color=ffffff" alt="gobindsetia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gobindsetia&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" alt="gobindsetia" /></p>
+</div>

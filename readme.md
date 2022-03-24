@@ -1,4 +1,4 @@
-<img align="center" alt="Gobind Setia" src="https://github.com/GobindSetia/GobindSetia/components/README_Banner.gif"/>
+<img align="center" alt="Gobind Setia" src="https://github.com/GobindSetia/GobindSetia/blob/main/components/README_Banner.gif"/>
 <br/>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>Hello there</p>

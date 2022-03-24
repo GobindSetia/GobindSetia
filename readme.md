@@ -6,7 +6,7 @@ I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a grad
 I have worked as an SEO executive for an year. Now I am a student of Full Stack Web Developer at Masai School.
 <hr/>
 
-<h3>Connect with me:</h3>
+<h2>Connect with me:</h2>
 <a href="https://twitter.com/gobindsetia" target="blank"><img src="https://img.shields.io/twitter/follow/gobindsetia?logo=twitter&style=for-the-badge" alt="gobindsetia" /></a>
 <br/>
 <a href="https://www.linkedin.com/in/gobindsetia/">
@@ -40,7 +40,8 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
 
 <br/>
 <br/>
-<h3>Statistics</h3>
+
+<h2>Statistics</h2>
 <img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat"/> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobindsetia&show_icons=true&locale=en&layout=compact&title_color=ffffff&border_color=ff0000&bg_color=000000&icon_color=ff0000&text_color=ffffff" /></p>
 

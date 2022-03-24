@@ -4,11 +4,11 @@
 <p>Hello there</p>
 I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida.
 I have worked as an SEO executive for an year. Now I am a student of Full Stack Web Developer at Masai School.
-<hr/>
+</hr>
 
 <h2>Connect with me:</h2>
 <a href="https://twitter.com/gobindsetia" target="blank"><img src="https://img.shields.io/twitter/follow/gobindsetia?logo=twitter&style=for-the-badge" alt="gobindsetia" /></a>
-<br/>
+</br/>
 <a href="https://www.linkedin.com/in/gobindsetia/">
   <img align="left" alt="Gobind's LinkedIN" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
@@ -22,9 +22,8 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
 <a href="https://discord.com/channels/@GobindSetia#1954">
   <img align="left" alt="Gobind's Discord" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 </a>
-<br/>
-<br/>
-<h3>Technologies</h3>
+</br>
+<h2>Technologies</h2>
 
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -38,7 +37,7 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 
-<br/>
+</br>
 <div align="left">
 <h2 align="left" width="100%">Statistics</h2>
 <img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat"/> 

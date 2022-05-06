@@ -38,6 +38,10 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
 
 
 </br>
+</br>
+</hr>
+</br>
+</br>
 <div align="left">
 <h2 align="left" width="100%">Statistics</h2>
 <img src="https://komarev.com/ghpvc/?username=gobindsetia&label=Profile%20views&color=0e75b6&style=flat"/> 

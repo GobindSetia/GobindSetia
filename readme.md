@@ -23,6 +23,10 @@ I have worked as an SEO executive for an year. Now I am a student of Full Stack 
   <img align="left" alt="Gobind's Discord" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 </a>
 </br>
+</br>
+</hr>
+</br>
+</br>
 <h2>Technologies</h2>
 
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>

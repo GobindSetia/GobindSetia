@@ -1,6 +1,7 @@
 <img align="center" alt="Gobind Setia" src="https://github.com/GobindSetia/GobindSetia/blob/main/components/README_Banner.gif"/>
 <br/>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px>
+<div height="50px"></div>
 <p>Hello there</p>
 I am <a href="https://www.linkedin.com/in/gobindsetia/">Gobind Setia</a>, a graduate in B.Tech.(CSE) from Amity University Noida.
 I have worked as an SEO executive for an year. Now I am a student of Full Stack Web Developer at Masai School.
